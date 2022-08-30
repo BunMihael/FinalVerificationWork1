@@ -16,3 +16,17 @@ void PrintArray(string[] array)
         Console.Write($" {array[i]} ");
 }
 
+string[] ArrayLessThenThree(string[] getFromArray)
+{
+    int count = 0;
+    string[] putInArray = new string[getFromArray.Length];
+    for (int i = 0; i < getFromArray.Length; i++)
+    {
+        if (getFromArray[i].Length < 4)
+        {
+            putInArray[count] = getFromArray[i];
+            count++;
+        }
+    }
+    return putInArray;
+}
