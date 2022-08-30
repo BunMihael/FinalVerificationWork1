@@ -30,6 +30,7 @@ string[] ArrayLessThenThree(string[] getFromArray)
     }
     return putInArray;
 }
+
 PrintArray(getFromArray);
 string[] array_2_new = ArrayLessThenThree(getFromArray);
 Console.Write(" -> ");
