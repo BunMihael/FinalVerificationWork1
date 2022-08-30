@@ -1,0 +1,15 @@
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\bin\Debug\net6.0\TestWork1.exe
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\bin\Debug\net6.0\TestWork1.deps.json
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\bin\Debug\net6.0\TestWork1.runtimeconfig.json
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\bin\Debug\net6.0\TestWork1.dll
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\bin\Debug\net6.0\TestWork1.pdb
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.csproj.AssemblyReference.cache
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.AssemblyInfoInputs.cache
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.AssemblyInfo.cs
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.dll
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\refint\TestWork1.dll
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.pdb
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\TestWork1.genruntimeconfig.cache
+C:\Users\Mihael\VerificationWork\FinalVerificationWork1\VerificationWork\TestWork1\obj\Debug\net6.0\ref\TestWork1.dll
